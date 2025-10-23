@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hasolachan.github.io//sitemap.xml
